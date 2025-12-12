@@ -1,2 +1,2 @@
 # GitHib.01
-Gaining  Knowladge aboyr github more
+Gaining  Knowladge about github more..
